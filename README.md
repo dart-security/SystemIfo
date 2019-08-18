@@ -14,6 +14,10 @@ Forma de ejecucion:<br>
 <img src="https://github.com/dart-security/SystemIfo/blob/master/Git1.png"><br>
 
 2-Ejecutar el programa<br>
+<img src="https://github.com/dart-security/SystemIfo/blob/master/Git2.png"><br>
+
+3- Damos Clic en el boton Obtener y el programa obtendra la infirmacion del sistema<br>
+<img src="https://github.com/dart-security/SystemIfo/blob/master/Git2.png"><br>
 
 Facebook: Dart - Security<br>
 Web: hc-security.com.mx<br>
