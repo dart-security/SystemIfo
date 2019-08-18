@@ -9,9 +9,12 @@ Requisitos para que el prograam se ejecute:
 El equipo de Dart - Security comparte este programa de forma gratuita si requiere mas funcionalidades del sistema o mas informacion 
 favor de contactarnos a info@hc-security.com.mx para una version mas completa.
 
-Fomr de ejecucion:
+Forma de ejecucion:<br>
 1 Descargar el programa y ponerlo en el escritorio:<br>
-<img src="images/dinosaur.jpg">
+<img src="https://github.com/dart-security/SystemIfo/blob/master/Git1.png"><br>
+
+2-Ejecutar el programa<br>
+
 Facebook: Dart - Security<br>
 Web: hc-security.com.mx<br>
 Correo: info@hc-security.com.mx
